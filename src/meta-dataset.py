@@ -558,3 +558,5 @@ if __name__ == "__main__":
     )
     print("\nRanks medios das abordagens (1 = melhor):")
     print(resultado_cd["ranks_medios"].sort_values().round(3))
+
+
